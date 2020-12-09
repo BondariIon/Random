@@ -1,0 +1,31 @@
+#container{
+    align-items: center;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    margin: 15px auto;
+    height: 500px;
+    width: 800px;
+    background-color: red;
+}
+
+h1{
+    color:white;
+    text-align:center;
+}
+
+button {
+    padding: 25px 70px;
+    align-items: center;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    margin: 50px auto;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    border: 2px solid white;
+    background-color: black;
+    border-radius: 20px;
+}
+
